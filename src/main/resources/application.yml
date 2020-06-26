@@ -1,0 +1,7 @@
+#spring:
+#  cloud:
+#    stream:
+#      bindings:
+#        input:
+#         #destination:com.ng.vela.even.card_verified
+#          destination:test2
